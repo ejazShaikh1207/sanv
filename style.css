@@ -27,7 +27,6 @@ body{
     line-height: 1.6em;
     font-weight: 400;
     color: white;
-    margin-top: 50px;
  }
  .cards:hover {
   transform: scale(1.1);
